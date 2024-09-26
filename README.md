@@ -1,3 +1,10 @@
+**Home:**
+![image](https://github.com/user-attachments/assets/11c191ac-1494-4a76-84a5-19faf8b9d223)
+
+The todo data is called from the api 'https://jsonplaceholder.typicode.com/todos'
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
